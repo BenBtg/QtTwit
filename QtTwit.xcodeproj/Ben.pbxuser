@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	118FCBAABA162BA17933C789 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	15C9B860B7D36B781F448CB0 /* QtTwit */ = {
+		activeExec = 0;
+		executables = (
+			B51C13161138449800CDB738 /* QtTwit */,
+		);
+	};
+	336D3C48DD3B44974395C633 /* moc_mainwindow.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1325, 992}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	91B15E841AA80083484172DE /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B51C13161138449800CDB738 /* QtTwit */;
+		activeTarget = 15C9B860B7D36B781F448CB0 /* QtTwit */;
+		breakpoints = (
+			B51C133E1138465C00CDB738 /* mainwindow.cpp:38 */,
+		);
+		codeSenseManager = B51C133C113844A900CDB738 /* Code sense */;
+		executables = (
+			B51C13161138449800CDB738 /* QtTwit */,
+		);
+		expressions = (
+			auth2,
+			auth,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289092701;
+			PBXWorkspaceStateSaveDate = 289092701;
+		};
+		perUserProjectItems = {
+			B50D3CB7113B349F001A4EC4 /* PBXTextBookmark */ = B50D3CB7113B349F001A4EC4 /* PBXTextBookmark */;
+			B50D3CB8113B349F001A4EC4 /* PBXTextBookmark */ = B50D3CB8113B349F001A4EC4 /* PBXTextBookmark */;
+			B50D3CBB113B349F001A4EC4 /* PBXTextBookmark */ = B50D3CBB113B349F001A4EC4 /* PBXTextBookmark */;
+			B51C1328113844A900CDB738 /* PBXTextBookmark */ = B51C1328113844A900CDB738 /* PBXTextBookmark */;
+			B51C13441138466100CDB738 /* PBXTextBookmark */ = B51C13441138466100CDB738 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B51C133B113844A900CDB738 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B50D3CB7113B349F001A4EC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 118FCBAABA162BA17933C789 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	B50D3CB8113B349F001A4EC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */;
+		name = "mainwindow.cpp: 44";
+		rLen = 0;
+		rLoc = 1021;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	B50D3CBB113B349F001A4EC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */;
+		name = "mainwindow.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1317;
+		vrLoc = 360;
+	};
+	B51C13161138449800CDB738 /* QtTwit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QtTwit;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B51C1328113844A900CDB738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */;
+		name = "mainwindow.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	B51C133B113844A900CDB738 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B51C133C113844A900CDB738 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B51C133E1138465C00CDB738 /* mainwindow.cpp:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */;
+		functionName = "MainWindow::postClicked()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = QtTwit;
+		modificationTime = 288900707.26138;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B51C13441138466100CDB738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */;
+		name = "mainwindow.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1238;
+		vrLoc = 393;
+	};
+	C63FA392C61F27B1B13369C1 /* mainwindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	DC9BC13AF98B95685C4275BF /* QtTwit.pro */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 437}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 302}";
+		};
+	};
+	EA177DE95BF7D3EF58EE43F7 /* mainwindow.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{360, 1317}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+}
