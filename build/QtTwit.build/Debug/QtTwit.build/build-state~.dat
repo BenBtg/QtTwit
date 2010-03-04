@@ -1,1349 +1,0 @@
-TQtTwit
-v7
-r0
-t288900263.487083
-cCheck dependencies
-cProcessInfoPlistFile /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/Info.plist Info.plist
-cPhaseScriptExecution "Qt Qmake" /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-D7BA7D76DAB5DD13389D6332.sh
-cPhaseScriptExecution "Qt Preprocessors" /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-A0A52A2ADF7A1E2A99738674.sh
-cCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/main.o /Users/Ben/Dropbox/Dev/QtTwit/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/mainwindow.o /Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/moc_mainwindow.o /Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-cLd /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit normal i386
-cTouch /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app
-cPBXCp QtTwit.app build/Debug/QtTwit.app
-
-N/Library/Frameworks/Qt3Support.framework/Headers/q3cstring.h
-c000000004B50C0300000000000002795
-t1263583280
-s10133
-i<QtCore/qbytearray.h>
-
-N/Library/Frameworks/Qt3Support.framework/Headers/q3valuelist.h
-c000000004B50C0310000000000002081
-t1263583281
-s8321
-i<QtCore/qalgorithms.h>
-i<QtCore/qdatastream.h>
-i<QtCore/qlinkedlist.h>
-i<QtCore/qlist.h>
-i<iterator>
-i<list>
-
-N/Library/Frameworks/QtCore.framework/Headers/QObject
-c000000004B50C02E0000000000000015
-t1263583278
-s21
-i"qobject.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QPoint
-c000000004B50C02E0000000000000014
-t1263583278
-s20
-i"qpoint.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QPointF
-c000000004B50C02E0000000000000014
-t1263583278
-s20
-i"qpoint.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QSharedDataPointer
-c000000004B50C02E0000000000000019
-t1263583278
-s25
-i"qshareddata.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QString
-c000000004B50C02E0000000000000015
-t1263583278
-s21
-i"qstring.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QUrl
-c000000004B50C02E0000000000000012
-t1263583278
-s18
-i"qurl.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/QVariant
-c000000004B50C02E0000000000000016
-t1263583278
-s22
-i"qvariant.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/qalgorithms.h
-c000000004B50C02D0000000000004026
-t1263583277
-s16422
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic.h
-c000000004B50C02D0000000000001AB4
-t1263583277
-s6836
-i<QtCore/qglobal.h>
-i<QtCore/qbasicatomic.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_alpha.h
-c000000004B50C02D00000000000065C3
-t1263583277
-s26051
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_arch.h
-c000000004B50C02D0000000000000DC1
-t1263583277
-s3521
-i"QtCore/qglobal.h"
-i"QtCore/qatomic_vxworks.h"
-i"QtCore/qatomic_alpha.h"
-i"QtCore/qatomic_arm.h"
-i"QtCore/qatomic_armv6.h"
-i"QtCore/qatomic_avr32.h"
-i"QtCore/qatomic_bfin.h"
-i"QtCore/qatomic_generic.h"
-i"QtCore/qatomic_i386.h"
-i"QtCore/qatomic_ia64.h"
-i"QtCore/qatomic_macosx.h"
-i"QtCore/qatomic_mips.h"
-i"QtCore/qatomic_parisc.h"
-i"QtCore/qatomic_powerpc.h"
-i"QtCore/qatomic_s390.h"
-i"QtCore/qatomic_sparc.h"
-i"QtCore/qatomic_windows.h"
-i"QtCore/qatomic_windowsce.h"
-i"QtCore/qatomic_x86_64.h"
-i"QtCore/qatomic_symbian.h"
-i"QtCore/qatomic_sh.h"
-i"QtCore/qatomic_sh4a.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_arm.h
-c000000004B50C02D0000000000002ED9
-t1263583277
-s11993
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_armv6.h
-c000000004B50C02D0000000000003ABC
-t1263583277
-s15036
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_avr32.h
-c000000004B50C02D0000000000001D39
-t1263583277
-s7481
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_bfin.h
-c000000004B50C02D0000000000002747
-t1263583277
-s10055
-i<asm/fixed_code.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_bootstrap.h
-c000000004B50C02D0000000000000C1D
-t1263583277
-s3101
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_generic.h
-c000000004B50C02D00000000000021FC
-t1263583277
-s8700
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_i386.h
-c000000004B50C02D0000000000002AC2
-t1263583277
-s10946
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_ia64.h
-c000000004B50C02D00000000000064D0
-t1263583277
-s25808
-i<ia64intrin.h>
-i<ia64/sys/inline.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_macosx.h
-c000000004B50C02D00000000000008E8
-t1263583277
-s2280
-i<QtCore/qatomic_x86_64.h>
-i<QtCore/qatomic_i386.h>
-i<QtCore/qatomic_powerpc.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_mips.h
-c000000004B50C02D0000000000006E38
-t1263583277
-s28216
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_parisc.h
-c000000004B50C02D00000000000020CD
-t1263583277
-s8397
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_powerpc.h
-c000000004B50C02D000000000000597D
-t1263583277
-s22909
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_s390.h
-c000000004B50C02D00000000000038AC
-t1263583277
-s14508
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_sh.h
-c000000004B50C02D0000000000002406
-t1263583277
-s9222
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_sh4a.h
-c000000004B50C02D000000000000460D
-t1263583277
-s17933
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_sparc.h
-c000000004B50C02D000000000000424F
-t1263583277
-s16975
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_symbian.h
-c000000004B50C02D00000000000022D0
-t1263583277
-s8912
-i<qglobal.h>
-i<e32std.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_vxworks.h
-c000000004B50C02D000000000000213A
-t1263583277
-s8506
-i<QtCore/qatomic_powerpc.h>
-i<vxWorksCommon.h>
-i<taskLib.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_windows.h
-c000000004B50C02D0000000000003FA9
-t1263583277
-s16297
-i"QtCore/qatomic_i386.h"
-i"QtCore/qatomic_x86_64.h"
-i<winbase.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_windowsce.h
-c000000004B50C02D0000000000000873
-t1263583277
-s2163
-i<QtCore/qglobal.h>
-i"QtCore/qatomic_windows.h"
-
-N/Library/Frameworks/QtCore.framework/Headers/qatomic_x86_64.h
-c000000004B50C02D0000000000002AE7
-t1263583277
-s10983
-
-N/Library/Frameworks/QtCore.framework/Headers/qbasicatomic.h
-c000000004B50C02D0000000000001922
-t1263583277
-s6434
-i<QtCore/qglobal.h>
-i<QtCore/qatomic_bootstrap.h>
-i<QtCore/qatomic_arch.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qbuffer.h
-c000000004B50C02D0000000000000D13
-t1263583277
-s3347
-i<QtCore/qiodevice.h>
-i<QtCore/qbytearray.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qbytearray.h
-c000000004B50C02D0000000000005BCC
-t1263583277
-s23500
-i<QtCore/qatomic.h>
-i<QtCore/qnamespace.h>
-i<string.h>
-i<stdarg.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qchar.h
-c000000004B50C02D000000000000321C
-t1263583277
-s12828
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qconfig.h
-c000000004B50C02D00000000000012B5
-t1263583277
-s4789
-
-N/Library/Frameworks/QtCore.framework/Headers/qcoreapplication.h
-c000000004B50C02D0000000000002790
-t1263583277
-s10128
-i<QtCore/qobject.h>
-i<QtCore/qcoreevent.h>
-i<QtCore/qeventloop.h>
-i<QtCore/qstringlist.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qcoreevent.h
-c000000004B50C02D0000000000003F97
-t1263583277
-s16279
-i<QtCore/qnamespace.h>
-i<QtCore/qbytearray.h>
-i<QtCore/qobjectdefs.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qdatastream.h
-c000000004B50C02D0000000000002C7E
-t1263583277
-s11390
-i<QtCore/qscopedpointer.h>
-i<QtCore/qiodevice.h>
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qeventloop.h
-c000000004B50C02D0000000000000C6D
-t1263583277
-s3181
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qfeatures.h
-c000000004B50C02D000000000000534B
-t1263583277
-s21323
-
-N/Library/Frameworks/QtCore.framework/Headers/qglobal.h
-c000000004B50C02D0000000000014D5C
-t1263583277
-s85340
-i<stddef.h>
-i<QtCore/qconfig.h>
-i<AvailabilityMacros.h>
-i<e32def.h>
-i<QtCore/qfeatures.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qhash.h
-c000000004B50C02D00000000000077F8
-t1263583277
-s30712
-i<QtCore/qatomic.h>
-i<QtCore/qchar.h>
-i<QtCore/qiterator.h>
-i<QtCore/qlist.h>
-i<QtCore/qpair.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qiodevice.h
-c000000004B50C02D00000000000020AE
-t1263583277
-s8366
-i<QtCore/qobject.h>
-i<QtCore/qobjectdefs.h>
-i<QtCore/qscopedpointer.h>
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qiterator.h
-c000000004B50C02D00000000000022FA
-t1263583277
-s8954
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qline.h
-c000000004B50C02D00000000000026B4
-t1263583277
-s9908
-i<QtCore/qpoint.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qlinkedlist.h
-c000000004B50C02D0000000000003C3E
-t1263583277
-s15422
-i<QtCore/qiterator.h>
-i<QtCore/qatomic.h>
-i<iterator>
-i<list>
-
-N/Library/Frameworks/QtCore.framework/Headers/qlist.h
-c000000004B50C02D0000000000006549
-t1263583277
-s25929
-i<QtCore/qiterator.h>
-i<QtCore/qatomic.h>
-i<QtCore/qalgorithms.h>
-i<iterator>
-i<list>
-i<new>
-i<string.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qmap.h
-c000000004B50C02D0000000000007F19
-t1263583277
-s32537
-i<QtCore/qatomic.h>
-i<QtCore/qiterator.h>
-i<QtCore/qlist.h>
-i<map>
-i<new>
-
-N/Library/Frameworks/QtCore.framework/Headers/qmargins.h
-c000000004B50C02D00000000000010AD
-t1263583277
-s4269
-i<QtCore/qnamespace.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qmetatype.h
-c000000004B50C02E0000000000002EB3
-t1263583278
-s11955
-i<QtCore/qglobal.h>
-i<QtCore/qatomic.h>
-i<QtCore/qdatastream.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qmimedata.h
-c000000004B50C02E0000000000000CE3
-t1263583278
-s3299
-i<QtCore/qvariant.h>
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qnamespace.h
-c000000004B50C02E000000000000D222
-t1263583278
-s53794
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qobject.h
-c000000004B50C02E0000000000003FC3
-t1263583278
-s16323
-i<QtCore/qobjectdefs.h>
-i<QtCore/qstring.h>
-i<QtCore/qbytearray.h>
-i<QtCore/qlist.h>
-i<QtCore/qcoreevent.h>
-i<QtCore/qscopedpointer.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qobjectdefs.h
-c000000004B50C02E00000000000042B3
-t1263583278
-s17075
-i<QtCore/qnamespace.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qpair.h
-c000000004B50C02E0000000000000F2C
-t1263583278
-s3884
-i<QtCore/qdatastream.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qpoint.h
-c000000004B50C02E00000000000024BF
-t1263583278
-s9407
-i<QtCore/qnamespace.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qpointer.h
-c000000004B50C02E0000000000001475
-t1263583278
-s5237
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qrect.h
-c000000004B50C02E00000000000056D2
-t1263583278
-s22226
-i<QtCore/qsize.h>
-i<QtCore/qpoint.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qregexp.h
-c000000004B50C02E0000000000001589
-t1263583278
-s5513
-i<QtCore/qstring.h>
-i<new>
-
-N/Library/Frameworks/QtCore.framework/Headers/qscopedpointer.h
-c000000004B50C02E000000000000155A
-t1263583278
-s5466
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qset.h
-c000000004B50C02E00000000000035A7
-t1263583278
-s13735
-i<QtCore/qhash.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qshareddata.h
-c000000004B50C02E0000000000001DCB
-t1263583278
-s7627
-i<QtCore/qglobal.h>
-i<QtCore/qatomic.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qsharedpointer.h
-c000000004B50C02E000000000000170F
-t1263583278
-s5903
-i<QtCore/qglobal.h>
-i<QtCore/qatomic.h>
-i<QtCore/qshareddata.h>
-i<QtCore/qsharedpointer_impl.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qsharedpointer_impl.h
-c000000004B50C02E000000000000644B
-t1263583278
-s25675
-i<new>
-i<QtCore/qatomic.h>
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qsize.h
-c000000004B50C02E000000000000286F
-t1263583278
-s10351
-i<QtCore/qnamespace.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qstring.h
-c000000004B50C02E000000000000E6DD
-t1263583278
-s59101
-i<QtCore/qchar.h>
-i<QtCore/qbytearray.h>
-i<QtCore/qatomic.h>
-i<QtCore/qnamespace.h>
-i<Qt3Support/q3cstring.h>
-i<string>
-i<string>
-i<stdarg.h>
-i<QtCore/qstringbuilder.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qstringbuilder.h
-c000000004B50C02E000000000000205E
-t1263583278
-s8286
-i<QtCore/qstring.h>
-i<QtCore/qmap.h>
-i<string.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qstringlist.h
-c000000004B50C02E000000000000263B
-t1263583278
-s9787
-i<QtCore/qalgorithms.h>
-i<QtCore/qdatastream.h>
-i<QtCore/qlist.h>
-i<QtCore/qregexp.h>
-i<QtCore/qstring.h>
-i<QtCore/qstringmatcher.h>
-i<Qt3Support/q3valuelist.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qstringmatcher.h
-c000000004B50C02E0000000000000D11
-t1263583278
-s3345
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qurl.h
-c000000004B50C02E0000000000002766
-t1263583278
-s10086
-i<QtCore/qbytearray.h>
-i<QtCore/qobjectdefs.h>
-i<QtCore/qpair.h>
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qvariant.h
-c000000004B50C02E0000000000004808
-t1263583278
-s18440
-i<QtCore/qatomic.h>
-i<QtCore/qbytearray.h>
-i<QtCore/qlist.h>
-i<QtCore/qmetatype.h>
-i<QtCore/qmap.h>
-i<QtCore/qhash.h>
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtCore.framework/Headers/qvector.h
-c000000004B50C02E00000000000065C2
-t1263583278
-s26050
-i<QtCore/qiterator.h>
-i<QtCore/qatomic.h>
-i<QtCore/qalgorithms.h>
-i<QtCore/qlist.h>
-i<iterator>
-i<vector>
-i<stdlib.h>
-i<string.h>
-i<QtCore/QPointF>
-i<QtCore/QPoint>
-
-N/Library/Frameworks/QtCore.framework/QtCore
-c000000004B50C14E00000000005809CC
-t1263583566
-s5769676
-
-N/Library/Frameworks/QtCore.framework/Versions/4/Headers/QByteArray
-c000000004B50C02D0000000000000018
-t1263583277
-s24
-i"qbytearray.h"
-
-N/Library/Frameworks/QtCore.framework/Versions/4/Headers/qbytearray.h
-c000000004B50C02D0000000000005BCC
-t1263583277
-s23500
-i<QtCore/qatomic.h>
-i<QtCore/qnamespace.h>
-i<string.h>
-i<stdarg.h>
-
-N/Library/Frameworks/QtCore.framework/Versions/4/Headers/qglobal.h
-c000000004B50C02D0000000000014D5C
-t1263583277
-s85340
-i<stddef.h>
-i<QtCore/qconfig.h>
-i<AvailabilityMacros.h>
-i<e32def.h>
-i<QtCore/qfeatures.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/QApplication
-c000000004B50C02E000000000000001A
-t1263583278
-s26
-i"qapplication.h"
-
-N/Library/Frameworks/QtGui.framework/Headers/qabstractbutton.h
-c000000004B50C02E0000000000001736
-t1263583278
-s5942
-i<QtGui/qicon.h>
-i<QtGui/qkeysequence.h>
-i<QtGui/qwidget.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qabstractscrollarea.h
-c000000004B50C02E00000000000012F9
-t1263583278
-s4857
-i<QtGui/qframe.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qapplication.h
-c000000004B50C02E00000000000038E1
-t1263583278
-s14561
-i<QtCore/qcoreapplication.h>
-i<QtGui/qwindowdefs.h>
-i<QtCore/qpoint.h>
-i<QtCore/qsize.h>
-i<QtGui/qcursor.h>
-i<QtGui/qdesktopwidget.h>
-i<QtGui/qwidget.h>
-i<QtGui/qpalette.h>
-i<QtGui/qrgb.h>
-i<QtGui/qtransportauth_qws.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qboxlayout.h
-c000000004B50C02F00000000000015ED
-t1263583279
-s5613
-i<QtGui/qlayout.h>
-i<QtGui/qwidget.h>
-i<limits.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qbrush.h
-c000000004B50C02F0000000000002513
-t1263583279
-s9491
-i<QtCore/qpair.h>
-i<QtCore/qpoint.h>
-i<QtCore/qvector.h>
-i<QtCore/qscopedpointer.h>
-i<QtGui/qcolor.h>
-i<QtGui/qmatrix.h>
-i<QtGui/qtransform.h>
-i<QtGui/qimage.h>
-i<QtGui/qpixmap.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qcolor.h
-c000000004B50C02F000000000000224C
-t1263583279
-s8780
-i<QtGui/qrgb.h>
-i<QtCore/qnamespace.h>
-i<QtCore/qstringlist.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qcursor.h
-c000000004B50C02F000000000000142A
-t1263583279
-s5162
-i<QtCore/qpoint.h>
-i<QtGui/qwindowdefs.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qdesktopwidget.h
-c000000004B50C02F0000000000000E11
-t1263583279
-s3601
-i<QtGui/qwidget.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qdrag.h
-c000000004B50C02F0000000000000C9E
-t1263583279
-s3230
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qevent.h
-c000000004B50C02F0000000000006C17
-t1263583279
-s27671
-i<QtGui/qwindowdefs.h>
-i<QtCore/qobject.h>
-i<QtGui/qregion.h>
-i<QtCore/qnamespace.h>
-i<QtCore/qstring.h>
-i<QtGui/qkeysequence.h>
-i<QtCore/qcoreevent.h>
-i<QtGui/qmime.h>
-i<QtGui/qdrag.h>
-i<QtCore/qvariant.h>
-i<QtCore/qmap.h>
-i<QtCore/qset.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qfont.h
-c000000004B50C02F00000000000026E3
-t1263583279
-s9955
-i<QtGui/qwindowdefs.h>
-i<QtCore/qstring.h>
-i<QtCore/qsharedpointer.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qfontinfo.h
-c000000004B50C02F0000000000000B24
-t1263583279
-s2852
-i<QtGui/qfont.h>
-i<QtCore/qsharedpointer.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qfontmetrics.h
-c000000004B50C02F0000000000001A4A
-t1263583279
-s6730
-i<QtGui/qfont.h>
-i<QtCore/qsharedpointer.h>
-i<QtCore/qrect.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qframe.h
-c000000004B50C02F0000000000001221
-t1263583279
-s4641
-i<QtGui/qwidget.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qgridlayout.h
-c000000004B50C02F0000000000001C8B
-t1263583279
-s7307
-i<QtGui/qlayout.h>
-i<QtGui/qwidget.h>
-i<limits.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qicon.h
-c000000004B50C02F0000000000001650
-t1263583279
-s5712
-i<QtCore/qglobal.h>
-i<QtCore/qsize.h>
-i<QtCore/qlist.h>
-i<QtGui/qpixmap.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qimage.h
-c000000004B50C02F00000000000036D0
-t1263583279
-s14032
-i<QtGui/qtransform.h>
-i<QtGui/qpaintdevice.h>
-i<QtGui/qrgb.h>
-i<QtCore/qbytearray.h>
-i<QtCore/qrect.h>
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qkeysequence.h
-c000000004B50C02F0000000000001A0A
-t1263583279
-s6666
-i<QtCore/qnamespace.h>
-i<QtCore/qstring.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qlayout.h
-c000000004B50C02F0000000000001E5B
-t1263583279
-s7771
-i<QtCore/qobject.h>
-i<QtGui/qlayoutitem.h>
-i<QtGui/qsizepolicy.h>
-i<QtCore/qrect.h>
-i<QtCore/qmargins.h>
-i<limits.h>
-i<QtGui/qboxlayout.h>
-i<QtGui/qgridlayout.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qlayoutitem.h
-c000000004B50C02F0000000000001550
-t1263583279
-s5456
-i<QtGui/qsizepolicy.h>
-i<QtCore/qrect.h>
-i<limits.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qmacdefines_mac.h
-c000000004B50C02F00000000000019C8
-t1263583279
-s6600
-i<QtCore/qglobal.h>
-i<Cocoa/Cocoa.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qmatrix.h
-c000000004B50C02F0000000000001AF0
-t1263583279
-s6896
-i<QtGui/qpolygon.h>
-i<QtGui/qregion.h>
-i<QtGui/qwindowdefs.h>
-i<QtCore/qline.h>
-i<QtCore/qpoint.h>
-i<QtCore/qrect.h>
-i<QtGui/qwmatrix.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qmime.h
-c000000004B50C02F00000000000018D9
-t1263583279
-s6361
-i<QtCore/qmimedata.h>
-i<QtCore/qvariant.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpaintdevice.h
-c000000004B50C02F000000000000178A
-t1263583279
-s6026
-i<QtGui/qwindowdefs.h>
-i<QtCore/qrect.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpainterpath.h
-c000000004B50C02F0000000000003715
-t1263583279
-s14101
-i<QtGui/qmatrix.h>
-i<QtCore/qglobal.h>
-i<QtCore/qrect.h>
-i<QtCore/qline.h>
-i<QtCore/qvector.h>
-i<QtCore/qscopedpointer.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpalette.h
-c000000004B50C02F000000000000328F
-t1263583279
-s12943
-i<QtGui/qwindowdefs.h>
-i<QtGui/qcolor.h>
-i<QtGui/qbrush.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpen.h
-c000000004B50C02F0000000000001020
-t1263583279
-s4128
-i<QtGui/qcolor.h>
-i<QtGui/qbrush.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpixmap.h
-c000000004B50C02F0000000000002F9B
-t1263583279
-s12187
-i<QtGui/qpaintdevice.h>
-i<QtGui/qcolor.h>
-i<QtCore/qnamespace.h>
-i<QtCore/qstring.h>
-i<QtCore/qsharedpointer.h>
-i<QtGui/qimage.h>
-i<QtGui/qtransform.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qpolygon.h
-c000000004B50C02F0000000000001930
-t1263583279
-s6448
-i<QtCore/qvector.h>
-i<QtCore/qpoint.h>
-i<QtCore/qrect.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qregion.h
-c000000004B50C02F000000000000207F
-t1263583279
-s8319
-i<QtCore/qatomic.h>
-i<QtCore/qrect.h>
-i<QtGui/qwindowdefs.h>
-i<QtCore/qdatastream.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qrgb.h
-c000000004B50C02F0000000000000D24
-t1263583279
-s3364
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qsizepolicy.h
-c000000004B50C02F0000000000002168
-t1263583279
-s8552
-i<QtCore/qobject.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextcursor.h
-c000000004B50C0300000000000001B24
-t1263583280
-s6948
-i<QtCore/qstring.h>
-i<QtCore/qshareddata.h>
-i<QtGui/qtextformat.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextdocument.h
-c000000004B50C0300000000000002342
-t1263583280
-s9026
-i<QtCore/qobject.h>
-i<QtCore/qsize.h>
-i<QtCore/qrect.h>
-i<QtGui/qfont.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextformat.h
-c000000004B50C0300000000000007161
-t1263583280
-s29025
-i<QtGui/qcolor.h>
-i<QtGui/qfont.h>
-i<QtCore/qshareddata.h>
-i<QtCore/qvector.h>
-i<QtCore/qvariant.h>
-i<QtGui/qpen.h>
-i<QtGui/qbrush.h>
-i<QtGui/qtextoption.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextlayout.h
-c000000004B50C0300000000000001C41
-t1263583280
-s7233
-i<QtCore/qstring.h>
-i<QtCore/qnamespace.h>
-i<QtCore/qrect.h>
-i<QtCore/qvector.h>
-i<QtGui/qcolor.h>
-i<QtCore/qobject.h>
-i<QtGui/qevent.h>
-i<QtGui/qtextformat.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextobject.h
-c000000004B50C0300000000000002673
-t1263583280
-s9843
-i<QtCore/qobject.h>
-i<QtGui/qtextformat.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtextoption.h
-c000000004B50C0300000000000001312
-t1263583280
-s4882
-i<QtCore/qnamespace.h>
-i<QtCore/qchar.h>
-i<QtCore/qmetatype.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtransform.h
-c000000004B50C0300000000000002C91
-t1263583280
-s11409
-i<QtGui/qmatrix.h>
-i<QtGui/qpainterpath.h>
-i<QtGui/qpolygon.h>
-i<QtGui/qregion.h>
-i<QtGui/qwindowdefs.h>
-i<QtCore/qline.h>
-i<QtCore/qpoint.h>
-i<QtCore/qrect.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qtransportauth_qws.h
-c000000004B50C0300000000000001DF8
-t1263583280
-s7672
-i<QtCore/qglobal.h>
-i<QtCore/qobject.h>
-i<QtCore/qhash.h>
-i<QtCore/qstring.h>
-i<QtCore/qbuffer.h>
-i<QtCore/qpointer.h>
-i<sys/types.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qwidget.h
-c000000004B50C030000000000000955D
-t1263583280
-s38237
-i<QtGui/qwindowdefs.h>
-i<QtCore/qobject.h>
-i<QtCore/qmargins.h>
-i<QtGui/qpaintdevice.h>
-i<QtGui/qpalette.h>
-i<QtGui/qfont.h>
-i<QtGui/qfontmetrics.h>
-i<QtGui/qfontinfo.h>
-i<QtGui/qsizepolicy.h>
-i<QtGui/qregion.h>
-i<QtGui/qbrush.h>
-i<QtGui/qcursor.h>
-i<QtGui/qkeysequence.h>
-i<QtGui/qevent.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qwindowdefs.h
-c000000004B50C0300000000000000EF5
-t1263583280
-s3829
-i<QtCore/qobjectdefs.h>
-i<QtCore/qnamespace.h>
-i<QtGui/qmacdefines_mac.h>
-i<QtGui/qwindowdefs_win.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qwindowdefs_win.h
-c000000004B50C0300000000000000D23
-t1263583280
-s3363
-i<QtCore/qglobal.h>
-
-N/Library/Frameworks/QtGui.framework/Headers/qwmatrix.h
-c000000004B50C0300000000000000880
-t1263583280
-s2176
-i<QtGui/qmatrix.h>
-
-N/Library/Frameworks/QtGui.framework/QtGui
-c000000004B50C152000000000175A164
-t1263583570
-s24486244
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/QDialog
-c000000004B50C02F0000000000000015
-t1263583279
-s21
-i"qdialog.h"
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/QLabel
-c000000004B50C02F0000000000000014
-t1263583279
-s20
-i"qlabel.h"
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/QPushButton
-c000000004B50C02F0000000000000019
-t1263583279
-s25
-i"qpushbutton.h"
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/QTextEdit
-c000000004B50C0300000000000000017
-t1263583280
-s23
-i"qtextedit.h"
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/QVBoxLayout
-c000000004B50C0300000000000000018
-t1263583280
-s24
-i"qboxlayout.h"
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/qboxlayout.h
-c000000004B50C02F00000000000015ED
-t1263583279
-s5613
-i<QtGui/qlayout.h>
-i<QtGui/qwidget.h>
-i<limits.h>
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/qdialog.h
-c000000004B50C02F0000000000000FD7
-t1263583279
-s4055
-i<QtGui/qwidget.h>
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/qlabel.h
-c000000004B50C02F00000000000016D9
-t1263583279
-s5849
-i<QtGui/qframe.h>
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/qpushbutton.h
-c000000004B50C02F0000000000001015
-t1263583279
-s4117
-i<QtGui/qabstractbutton.h>
-
-N/Library/Frameworks/QtGui.framework/Versions/4/Headers/qtextedit.h
-c000000004B50C0300000000000003730
-t1263583280
-s14128
-i<QtGui/qabstractscrollarea.h>
-i<QtGui/qtextdocument.h>
-i<QtGui/qtextoption.h>
-i<QtGui/qtextcursor.h>
-i<QtGui/qtextformat.h>
-i<QtGui/qtextobject.h>
-i<QtGui/qtextlayout.h>
-
-N/Library/Frameworks/QtNetwork.framework/QtNetwork
-c000000004B50C15300000000002A7470
-t1263583571
-s2782320
-
-N/Library/Frameworks/QtNetwork.framework/Versions/4/Headers/QNetworkAccessManager
-c000000004B50C0300000000000000023
-t1263583280
-s35
-i"qnetworkaccessmanager.h"
-
-N/Library/Frameworks/QtNetwork.framework/Versions/4/Headers/QNetworkRequest
-c000000004B50C030000000000000001D
-t1263583280
-s29
-i"qnetworkrequest.h"
-
-N/Library/Frameworks/QtNetwork.framework/Versions/4/Headers/qnetworkaccessmanager.h
-c000000004B50C0300000000000001192
-t1263583280
-s4498
-i<QtCore/QObject>
-
-N/Library/Frameworks/QtNetwork.framework/Versions/4/Headers/qnetworkrequest.h
-c000000004B50C0300000000000001147
-t1263583280
-s4423
-i<QtCore/QSharedDataPointer>
-i<QtCore/QString>
-i<QtCore/QUrl>
-i<QtCore/QVariant>
-
-N/Library/Frameworks/QtXml.framework/QtXml
-c000000004B50C15300000000000E9C7C
-t1263583571
-s957564
-
-N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Users/Ben/Dropbox/Dev/QtTwit/QtTwit.app
-t1267207463
-s102
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app
-t1267207463
-s102
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/Info.plist
-t1267207459
-s568
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit
-t1267207463
-s41952
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/PkgInfo
-t1267207459
-s8
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/QtTwit.LinkFileList
-c000000004B880D23000000000000012D
-t1267207459
-s301
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/main.o
-t1267207461
-s323868
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/mainwindow.o
-t1267207461
-s455092
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/moc_mainwindow.o
-t1267207462
-s306408
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-A0A52A2ADF7A1E2A99738674.sh
-c000000004B880D230000000000000056
-t1267207459
-s86
-
-N/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-D7BA7D76DAB5DD13389D6332.sh
-c000000004B880D230000000000000055
-t1267207459
-s85
-
-N/Users/Ben/Dropbox/Dev/QtTwit/main.cpp
-c000000004B83E14300000000000000BB
-t1266934083
-s187
-i<QtGui/QApplication>
-i"mainwindow.h"
-
-N/Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp
-c000000004B86ACF700000000000006A2
-t1267117303
-s1698
-i"mainwindow.h"
-i<QVBoxLayout>
-i<QTextEdit>
-i<QPushButton>
-i<QLabel>
-i<QNetworkAccessManager>
-i<QNetworkRequest>
-i<QByteArray>
-
-N/Users/Ben/Dropbox/Dev/QtTwit/mainwindow.h
-c000000004B83F9290000000000000214
-t1266940201
-s532
-i<QDialog>
-
-N/Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp
-c000000004B846586000000000000090D
-t1266967942
-s2317
-i"mainwindow.h"
-
-N/usr/include/AvailabilityMacros.h
-c000000004AC4CC750000000000006724
-t1254411381
-s26404
-
-N/usr/include/limits.h
-c000000004AC32606000000000000145A
-t1254303238
-s5210
-
-N/usr/include/stdarg.h
-c000000004AC3260600000000000000EA
-t1254303238
-s234
-
-N/usr/include/stddef.h
-c000000004AC326060000000000001404
-t1254303238
-s5124
-
-N/usr/include/stdlib.h
-c000000004AC326060000000000002DF5
-t1254303238
-s11765
-
-N/usr/include/string.h
-c000000004AC326060000000000001731
-t1254303238
-s5937
-
-N/usr/include/sys/types.h
-c000000004B319BAA0000000000002905
-t1261542314
-s10501
-
-NInfo.plist
-c000000004B880CEF0000000000000254
-t1267207407
-s596
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies288900259#288900259#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/main.o /Users/Ben/Dropbox/Dev/QtTwit/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s288900260.094551
-e288900261.666188
-r1
-xCompileC
-xbuild/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/main.o
-x/Users/Ben/Dropbox/Dev/QtTwit/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/Ben/Dropbox/Dev/QtTwit/main.cpp288900260#288900261#0(0"0(0#0#38"/Users/Ben/Dropbox/Dev/QtTwit/main.cpp4300903632#1330"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/QtTwit.hmap -F/Users/Ben/Dropbox/Dev/QtTwit/build/Debug -I/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/include -I/Library/Frameworks/QtCore.framework/Versions/4/Headers -I/usr/include/QtCore -I/Library/Frameworks/QtNetwork.framework/Versions/4/Headers -I/usr/include/QtNetwork -I/Library/Frameworks/QtGui.framework/Versions/4/Headers -I/usr/include/QtGui -I/Library/Frameworks/QtXml.framework/Versions/4/Headers -I/usr/include/QtXml -I/usr/include -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Qt4.6/mkspecs/macx-xcode -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources/i386 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources -pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/Ben/Dropbox/Dev/QtTwit/main.cpp -o /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/main.o0#
-
-CCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/mainwindow.o /Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s288900260.095493
-e288900261.976923
-r1
-xCompileC
-xbuild/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/mainwindow.o
-x/Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@52"Compile /Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp288900260#288900261#0(0"0(0#0#44"/Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp4300903632#1342"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/QtTwit.hmap -F/Users/Ben/Dropbox/Dev/QtTwit/build/Debug -I/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/include -I/Library/Frameworks/QtCore.framework/Versions/4/Headers -I/usr/include/QtCore -I/Library/Frameworks/QtNetwork.framework/Versions/4/Headers -I/usr/include/QtNetwork -I/Library/Frameworks/QtGui.framework/Versions/4/Headers -I/usr/include/QtGui -I/Library/Frameworks/QtXml.framework/Versions/4/Headers -I/usr/include/QtXml -I/usr/include -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Qt4.6/mkspecs/macx-xcode -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources/i386 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources -pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/Ben/Dropbox/Dev/QtTwit/mainwindow.cpp -o /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/mainwindow.o0#
-
-CCompileC build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/moc_mainwindow.o /Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s288900261.666375
-e288900262.620736
-r1
-xCompileC
-xbuild/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/moc_mainwindow.o
-x/Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp288900261#288900262#0(0"0(0#0#48"/Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp4300903632#1350"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/QtTwit.hmap -F/Users/Ben/Dropbox/Dev/QtTwit/build/Debug -I/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/include -I/Library/Frameworks/QtCore.framework/Versions/4/Headers -I/usr/include/QtCore -I/Library/Frameworks/QtNetwork.framework/Versions/4/Headers -I/usr/include/QtNetwork -I/Library/Frameworks/QtGui.framework/Versions/4/Headers -I/usr/include/QtGui -I/Library/Frameworks/QtXml.framework/Versions/4/Headers -I/usr/include/QtXml -I/usr/include -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Qt4.6/mkspecs/macx-xcode -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources/i386 -I/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources -pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/Ben/Dropbox/Dev/QtTwit/moc_mainwindow.cpp -o /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/moc_mainwindow.o0#
-
-CLd /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit normal i386
-s288900262.620828
-e288900263.194056
-r1
-xLd
-x/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit
-xnormal
-xi386
-lSLF07#2@79"Link /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit288900262#288900263#0(0"0(0#0#0"4300903632#598"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/Ben/Dropbox/Dev/QtTwit/build/Debug -L/Library/Frameworks -F/Users/Ben/Dropbox/Dev/QtTwit/build/Debug -filelist /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/QtTwit.LinkFileList -mmacosx-version-min=10.4 -headerpad_max_install_names -L/Library/Frameworks -F/Library/Frameworks -framework QtXml -framework QtGui -framework QtNetwork -framework QtCore -o /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/MacOS/QtTwit0#
-
-CPBXCp QtTwit.app build/Debug/QtTwit.app
-s288900263.245644
-e288900263.487007
-r1
-xPBXCp
-xQtTwit.app
-xbuild/Debug/QtTwit.app
-lSLF07#2@27"Copy build/Debug/QtTwit.app288900263#288900263#0(0"0(0#0#52"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app4300903632#268"    cd /Users/Ben/Dropbox/Dev/QtTwit    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app /Users/Ben/Dropbox/Dev/QtTwit0#
-
-CPhaseScriptExecution "Qt Preprocessors" /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-A0A52A2ADF7A1E2A99738674.sh
-s288900260.078285
-e288900260.094459
-r1
-xPhaseScriptExecution
-xQt Preprocessors
-x/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-A0A52A2ADF7A1E2A99738674.sh
-omake: Nothing to be done for `preprocess'.
-lSLF07#2@42"Run custom shell script 'Qt Preprocessors'288900260#288900260#0(43"make: Nothing to be done for `preprocess'.1(13@43"make: Nothing to be done for `preprocess'.288900260#0#43#0(1@0"0(0#0#0"4300903632#15706"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Ben    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build    setenv BUILD_ROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv CACHE_ROOT /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug    setenv CONTENTS_FOLDER_PATH QtTwit.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/QtTwit.dst    setenv DWARF_DSYM_FILE_NAME QtTwit.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH QtTwit.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH QtTwit.app/Contents/MacOS    setenv EXECUTABLE_NAME QtTwit    setenv EXECUTABLE_PATH QtTwit.app/Contents/MacOS/QtTwit    setenv FILE_LIST /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH QtTwit.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME QtTwit.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/include\" /Library/Frameworks/QtCore.framework/Versions/4/Headers /usr/include/QtCore /Library/Frameworks/QtNetwork.framework/Versions/4/Headers /usr/include/QtNetwork /Library/Frameworks/QtGui.framework/Versions/4/Headers /usr/include/QtGui /Library/Frameworks/QtXml.framework/Versions/4/Headers /usr/include/QtXml /usr/include . /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers /usr/local/Qt4.6/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH QtTwit.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/QtTwit.dst/Users/Ben/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Ben    setenv INSTALL_PATH /Users/Ben/Applications    setenv INSTALL_ROOT /tmp/QtTwit.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH QtTwit.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/QtTwit-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" /Library/Frameworks"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/QtTwit.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.4    setenv MAC_OS_X_VERSION_ACTUAL 1062    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0602    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal    setenv OBJROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -L/Library/Frameworks -F/Library/Frameworks"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH QtTwit.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/PkgInfo    setenv PKGINFO_PATH QtTwit.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH QtTwit.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH QtTwit.app/Contents/PrivateHeaders    setenv PRODUCT_NAME QtTwit    setenv PRODUCT_SETTINGS_PATH /Users/Ben/Dropbox/Dev/QtTwit/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT QtTwit    setenv PROJECT_DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/DerivedSources    setenv PROJECT_DIR /Users/Ben/Dropbox/Dev/QtTwit    setenv PROJECT_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/QtTwit.xcodeproj    setenv PROJECT_NAME QtTwit    setenv PROJECT_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build    setenv PUBLIC_HEADERS_FOLDER_PATH QtTwit.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH QtTwit.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH QtTwit.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH QtTwit.app/Contents/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv SRCROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/SymbolRepositories    setenv SYMROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME QtTwit    setenv TARGET_BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv TARGET_NAME QtTwit    setenv TARGET_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_ROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH QtTwit.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Ben    setenv USER_APPS_DIR /Users/Ben/Applications    setenv USER_LIBRARY_DIR /Users/Ben/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH QtTwit.app/Contents/version.plist    setenv VERSION_INFO_BUILDER Ben    setenv VERSION_INFO_FILE QtTwit_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:QtTwit  PROJECT:QtTwit-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME QtTwit.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv YACCFLAGS -d    /bin/sh -c /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-A0A52A2ADF7A1E2A99738674.sh0#
-
-CPhaseScriptExecution "Qt Qmake" /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-D7BA7D76DAB5DD13389D6332.sh
-s288900259.894740
-e288900260.077651
-r1
-xPhaseScriptExecution
-xQt Qmake
-x/Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-D7BA7D76DAB5DD13389D6332.sh
-omake: `QtTwit.xcodeproj/project.pbxproj' is up to date.
-lSLF07#2@34"Run custom shell script 'Qt Qmake'288900259#288900260#0(56"make: `QtTwit.xcodeproj/project.pbxproj' is up to date.1(13@56"make: `QtTwit.xcodeproj/project.pbxproj' is up to date.288900260#0#56#0(1@0"0(0#0#0"15481402896285752#15706"    cd /Users/Ben/Dropbox/Dev/QtTwit    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Ben    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build    setenv BUILD_ROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv CACHE_ROOT /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug    setenv CONTENTS_FOLDER_PATH QtTwit.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/QtTwit.dst    setenv DWARF_DSYM_FILE_NAME QtTwit.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH QtTwit.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH QtTwit.app/Contents/MacOS    setenv EXECUTABLE_NAME QtTwit    setenv EXECUTABLE_PATH QtTwit.app/Contents/MacOS/QtTwit    setenv FILE_LIST /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH QtTwit.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME QtTwit.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/include\" /Library/Frameworks/QtCore.framework/Versions/4/Headers /usr/include/QtCore /Library/Frameworks/QtNetwork.framework/Versions/4/Headers /usr/include/QtNetwork /Library/Frameworks/QtGui.framework/Versions/4/Headers /usr/include/QtGui /Library/Frameworks/QtXml.framework/Versions/4/Headers /usr/include/QtXml /usr/include . /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers /usr/local/Qt4.6/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH QtTwit.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/QtTwit.dst/Users/Ben/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Ben    setenv INSTALL_PATH /Users/Ben/Applications    setenv INSTALL_ROOT /tmp/QtTwit.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH QtTwit.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/QtTwit-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" /Library/Frameworks"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal/i386/QtTwit.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.4    setenv MAC_OS_X_VERSION_ACTUAL 1062    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0602    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Objects-normal    setenv OBJROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -g -Wall -W -DQT_XML_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -L/Library/Frameworks -F/Library/Frameworks"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH QtTwit.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/PkgInfo    setenv PKGINFO_PATH QtTwit.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH QtTwit.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH QtTwit.app/Contents/PrivateHeaders    setenv PRODUCT_NAME QtTwit    setenv PRODUCT_SETTINGS_PATH /Users/Ben/Dropbox/Dev/QtTwit/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT QtTwit    setenv PROJECT_DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/DerivedSources    setenv PROJECT_DIR /Users/Ben/Dropbox/Dev/QtTwit    setenv PROJECT_FILE_PATH /Users/Ben/Dropbox/Dev/QtTwit/QtTwit.xcodeproj    setenv PROJECT_NAME QtTwit    setenv PROJECT_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build    setenv PUBLIC_HEADERS_FOLDER_PATH QtTwit.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Ben/Dropbox/Dev/QtTwit/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH QtTwit.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH QtTwit.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/D-/D-K8CEvgH-uKaobvCtD5BE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH QtTwit.app/Contents/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv SRCROOT /Users/Ben/Dropbox/Dev/QtTwit    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/SymbolRepositories    setenv SYMROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME QtTwit    setenv TARGET_BUILD_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/Debug    setenv TARGET_NAME QtTwit    setenv TARGET_TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_FILES_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_FILE_DIR /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build    setenv TEMP_ROOT /Users/Ben/Dropbox/Dev/QtTwit/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH QtTwit.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Ben    setenv USER_APPS_DIR /Users/Ben/Applications    setenv USER_LIBRARY_DIR /Users/Ben/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH QtTwit.app/Contents/version.plist    setenv VERSION_INFO_BUILDER Ben    setenv VERSION_INFO_FILE QtTwit_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:QtTwit  PROJECT:QtTwit-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME QtTwit.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv YACCFLAGS -d    /bin/sh -c /Users/Ben/Dropbox/Dev/QtTwit/build/QtTwit.build/Debug/QtTwit.build/Script-D7BA7D76DAB5DD13389D6332.sh0#
-
-CProcessInfoPlistFile /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/Info.plist Info.plist
-s288900259.862794
-e288900259.894629
-r1
-xProcessInfoPlistFile
-x/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist288900259#288900259#0(0"0(0#0#40"/Users/Ben/Dropbox/Dev/QtTwit/Info.plist31525614006435956#273"    cd /Users/Ben/Dropbox/Dev/QtTwit    builtin-infoPlistUtility Info.plist -genpkginfo /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app/Contents/Info.plist0#
-
-CTouch /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app
-s288900263.194560
-e288900263.245281
-r1
-xTouch
-x/Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app
-lSLF07#2@58"Touch /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app288900263#288900263#0(0"0(0#0#0"4300903632#112"    cd /Users/Ben/Dropbox/Dev/QtTwit    /usr/bin/touch -c /Users/Ben/Dropbox/Dev/QtTwit/build/Debug/QtTwit.app0#
-
